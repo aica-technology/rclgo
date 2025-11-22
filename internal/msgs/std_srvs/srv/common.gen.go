@@ -42,6 +42,6 @@ package std_srvs_srv
 #cgo CFLAGS: "-I/opt/ros/humble/include/std_srvs"
 #cgo CFLAGS: "-I/opt/ros/humble/include/test_msgs"
 #cgo CFLAGS: "-I/opt/ros/humble/include/unique_identifier_msgs"
-#cgo CFLAGS: "-I/opt/ros/iron/include/std_srvs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/std_srvs"
 */
 import "C"

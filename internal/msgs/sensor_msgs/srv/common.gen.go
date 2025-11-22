@@ -41,12 +41,12 @@ package sensor_msgs_srv
 #cgo CFLAGS: "-I/opt/ros/humble/include/rosidl_runtime_c"
 #cgo CFLAGS: "-I/opt/ros/humble/include/rosidl_typesupport_interface"
 #cgo CFLAGS: "-I/opt/ros/humble/include/sensor_msgs"
-#cgo CFLAGS: "-I/opt/ros/iron/include/std_msgs"
-#cgo CFLAGS: "-I/opt/ros/iron/include/std_srvs"
-#cgo CFLAGS: "-I/opt/ros/iron/include/test_msgs"
-#cgo CFLAGS: "-I/opt/ros/iron/include/unique_identifier_msgs"
-#cgo CFLAGS: "-I/opt/ros/iron/include/sensor_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/std_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/std_srvs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/test_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/unique_identifier_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/sensor_msgs"
 
-#cgo CFLAGS: "-I/opt/ros/iron/include/sensor_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/sensor_msgs"
 */
 import "C"

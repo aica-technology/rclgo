@@ -40,7 +40,7 @@ package rclgo
 #cgo CFLAGS: "-I/opt/ros/humble/include/type_description_interfaces"
 #cgo CFLAGS: "-I/opt/ros/humble/include/unique_identifier_msgs"
 #cgo CFLAGS: "-I/opt/ros/humble/include/builtin_interfaces"
-#cgo CFLAGS: "-I/opt/ros/iron/include/rcl_yaml_param_parser"
+#cgo CFLAGS: "-I/opt/ros/humble/include/rcl_yaml_param_parser"
 
 #cgo LDFLAGS: -lrcl -lrmw -lrosidl_runtime_c -lrosidl_typesupport_c -lrcutils -lrcl_action -lrmw_implementation
 */

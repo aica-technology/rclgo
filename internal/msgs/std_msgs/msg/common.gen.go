@@ -47,6 +47,6 @@ package std_msgs_msg
 #cgo CFLAGS: "-I/opt/ros/humble/include/unique_identifier_msgs"
 #cgo CFLAGS: "-I/opt/ros/humble/include/builtin_interfaces"
 
-#cgo CFLAGS: "-I/opt/ros/iron/include/std_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/std_msgs"
 */
 import "C"
