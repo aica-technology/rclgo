@@ -13,10 +13,10 @@ package test_msgs_action
 import (
 	"unsafe"
 
-	"github.com/ATIinc/rclgo/pkg/rclgo"
-	"github.com/ATIinc/rclgo/pkg/rclgo/types"
-	"github.com/ATIinc/rclgo/pkg/rclgo/typemap"
-	unique_identifier_msgs_msg "github.com/ATIinc/rclgo/internal/msgs/unique_identifier_msgs/msg"
+	"github.com/aica-technology/rclgo/pkg/rclgo"
+	"github.com/aica-technology/rclgo/pkg/rclgo/types"
+	"github.com/aica-technology/rclgo/pkg/rclgo/typemap"
+	unique_identifier_msgs_msg "github.com/aica-technology/rclgo/internal/msgs/unique_identifier_msgs/msg"
 	
 )
 /*

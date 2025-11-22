@@ -12,7 +12,7 @@ package typemap
 import (
 	"fmt"
 
-	"github.com/ATIinc/rclgo/pkg/rclgo/types"
+	"github.com/aica-technology/rclgo/pkg/rclgo/types"
 )
 
 /*

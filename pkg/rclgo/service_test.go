@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	example_interfaces_srv "github.com/ATIinc/rclgo/internal/msgs/example_interfaces/srv"
-	"github.com/ATIinc/rclgo/pkg/rclgo"
-	"github.com/ATIinc/rclgo/pkg/rclgo/types"
+	example_interfaces_srv "github.com/aica-technology/rclgo/internal/msgs/example_interfaces/srv"
+	"github.com/aica-technology/rclgo/pkg/rclgo"
+	"github.com/aica-technology/rclgo/pkg/rclgo/types"
 	. "github.com/smartystreets/goconvey/convey" //nolint:revive
 )
 

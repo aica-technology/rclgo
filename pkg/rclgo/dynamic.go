@@ -84,7 +84,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/ATIinc/rclgo/pkg/rclgo/types"
+	"github.com/aica-technology/rclgo/pkg/rclgo/types"
 )
 
 type dynamicMessageTypeSupport struct {

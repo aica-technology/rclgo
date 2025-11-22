@@ -13,10 +13,10 @@ package example_interfaces_msg
 import (
 	"unsafe"
 
-	"github.com/ATIinc/rclgo/pkg/rclgo"
-	"github.com/ATIinc/rclgo/pkg/rclgo/types"
-	"github.com/ATIinc/rclgo/pkg/rclgo/typemap"
-	primitives "github.com/ATIinc/rclgo/pkg/rclgo/primitives"
+	"github.com/aica-technology/rclgo/pkg/rclgo"
+	"github.com/aica-technology/rclgo/pkg/rclgo/types"
+	"github.com/aica-technology/rclgo/pkg/rclgo/typemap"
+	primitives "github.com/aica-technology/rclgo/pkg/rclgo/primitives"
 	
 )
 /*

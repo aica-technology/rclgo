@@ -6,8 +6,8 @@ package test
 import (
 	"testing"
 
-	std_srvs_srv "github.com/ATIinc/rclgo/internal/msgs/std_srvs/srv"
-	"github.com/ATIinc/rclgo/pkg/rclgo/typemap"
+	std_srvs_srv "github.com/aica-technology/rclgo/internal/msgs/std_srvs/srv"
+	"github.com/aica-technology/rclgo/pkg/rclgo/typemap"
 	. "github.com/smartystreets/goconvey/convey" //nolint:revive
 )
 

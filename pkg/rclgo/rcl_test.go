@@ -10,8 +10,8 @@ import (
 	"sync"
 	"testing"
 
-	std_msgs_msg "github.com/ATIinc/rclgo/internal/msgs/std_msgs/msg"
-	"github.com/ATIinc/rclgo/pkg/rclgo"
+	std_msgs_msg "github.com/aica-technology/rclgo/internal/msgs/std_msgs/msg"
+	"github.com/aica-technology/rclgo/pkg/rclgo"
 	"github.com/stretchr/testify/require"
 )
 

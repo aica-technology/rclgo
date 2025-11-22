@@ -1,4 +1,4 @@
-module github.com/ATIinc/rclgo
+module github.com/aica-technology/rclgo
 
 go 1.20
 

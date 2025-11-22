@@ -35,7 +35,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ATIinc/rclgo/pkg/rclgo/types"
+	"github.com/aica-technology/rclgo/pkg/rclgo/types"
 )
 
 type MessageInfo struct {

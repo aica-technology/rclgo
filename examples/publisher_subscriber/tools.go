@@ -2,4 +2,4 @@
 
 package main
 
-import _ "github.com/ATIinc/rclgo/cmd/rclgo-gen"
+import _ "github.com/aica-technology/rclgo/cmd/rclgo-gen"
