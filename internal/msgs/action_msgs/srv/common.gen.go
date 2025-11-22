@@ -13,7 +13,7 @@ package action_msgs_srv
 
 /*
 #cgo LDFLAGS: "-L/usr/lib" "-Wl,-rpath=/usr/lib"
-#cgo LDFLAGS: "-L/opt/ros/iron/lib" "-Wl,-rpath=/opt/ros/iron/lib"
+#cgo LDFLAGS: "-L/opt/ros/humble/lib" "-Wl,-rpath=/opt/ros/humble/lib"
 
 #cgo LDFLAGS: -lrcl -lrosidl_runtime_c -lrosidl_typesupport_c -lrcutils -lrmw_implementation
 #cgo LDFLAGS: -laction_msgs__rosidl_typesupport_c -laction_msgs__rosidl_generator_c
@@ -34,7 +34,7 @@ package action_msgs_srv
 
 #cgo CFLAGS: "-I/usr/include/action_msgs"
 
-#cgo CFLAGS: "-I/opt/ros/iron/include/action_msgs"
+#cgo CFLAGS: "-I/opt/ros/humble/include/action_msgs"
 #cgo CFLAGS: "-I/opt/ros/iron/include/builtin_interfaces"
 #cgo CFLAGS: "-I/opt/ros/iron/include/example_interfaces"
 #cgo CFLAGS: "-I/opt/ros/iron/include/geometry_msgs"

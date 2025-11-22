@@ -20,8 +20,8 @@ package test
 #cgo CFLAGS: "-I/usr/include/std_msgs"
 #cgo CFLAGS: "-I/usr/include/test_msgs"
 
-#cgo LDFLAGS: "-L/opt/ros/iron/lib" "-Wl,-rpath=/opt/ros/iron/lib"
-#cgo CFLAGS: "-I/opt/ros/iron/include/builtin_interfaces"
+#cgo LDFLAGS: "-L/opt/ros/humble/lib" "-Wl,-rpath=/opt/ros/humble/lib"
+#cgo CFLAGS: "-I/opt/ros/humble/include/builtin_interfaces"
 #cgo CFLAGS: "-I/opt/ros/iron/include/rosidl_runtime_c"
 #cgo CFLAGS: "-I/opt/ros/iron/include/rosidl_typesupport_interface"
 #cgo CFLAGS: "-I/opt/ros/iron/include/sensor_msgs"
